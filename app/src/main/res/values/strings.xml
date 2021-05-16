@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WhatsApp Clone</string>
+    <string name="splash">from\n\nFACEBOOK</string>
+    <string name="hint_number">Enter Mobile Number</string>
+    <string name="txt_signUpTitle">Create account</string>
+    <string name="btn_signup">SIGN UP</string>
+    <string name="hint_name">Enter Profile Name</string>
+    <string name="hint_status">Enter Profile Status</string>
+    <string name="txt_profileInfo">Save Profile Info</string>
+    <string name="btn_profile">SUBMIT</string>
+    <string name="btn_login">LOG IN</string>
+    <string name="btnGoToSignUp">New User? Sign Up</string>
+    <string name="menu_profile">Edit Profile</string>
+    <string name="menu_logout">Log Out</string>
+    <string name="btn_goToLoginPage">EXISTING USER? LOGIN</string>
+    <string name="hint_message">Type something here...</string>
+</resources>
